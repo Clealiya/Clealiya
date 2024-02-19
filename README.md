@@ -32,7 +32,7 @@ Cybersecurity, Music, Dance, Singing
 
 ## Education
 
-🔭 General engineering at *Centrale Méditerranée (ongoing | 2021 - 2024)* with 3rd year specialization in AI : Currently doing in parallel an AI Master (AMU) alongside a specialization in AI and Data Science at Centrale & co-op program as a Computer Vision Developer in Paris. 
+🔭 General engineering at *Centrale Méditerranée (ongoing | 2021 - 2024)* with 3rd year specialization in AI : Currently doing in parallel an AI Master (AMU) alongside a specialization in AI and Data Science at Centrale & work-study program as a Computer Vision Developer in Paris. 
 
 🌱 Erasmus at *Universitat Politècnica de Catalunya, Barcelona, Feb - Jun 2023* : Completed advanced courses in Innovation and Research in Computer Science, AI, and Data Science.
 
