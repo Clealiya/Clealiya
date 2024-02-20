@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **AI and Data enthousiast | Engineer Student & Computer Vision Developer in Paris | Centrale Méditerranée & AMU & UPC**
 
-📫 How to reach me: clea.han@centrale-med.fr in those languages : French (Bilingual), English (C1/C2), Chinese (Bilingual - HSK 6), Spanish (A2), Russian (Beginner - avoid using russian please I will not understand)
+📫 How to reach me: clea.han@centrale-med.fr in those languages : French, English, Chinese or Spanish (still learning).
 
 💬 My LinkedIn: https://www.linkedin.com/in/clea-han/ 
 
