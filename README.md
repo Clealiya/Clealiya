@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to Cléa Han's GitHub Page! 👋
 
-**AI and Data enthousiast | Engineer Student & Computer Vision Developer in Paris | Centrale Méditerranée & AMU & UPC**
+**AI and Data enthousiast | Engineering Student & Computer Vision Developer in Paris | Centrale Méditerranée & AMU & UPC**
 
 📫 How to reach me: clea.han@centrale-med.fr in those languages : French, English, Chinese or Spanish (still learning).
 
@@ -29,16 +29,6 @@ Feel free to explore my projects and connect with me on LinkedIn! Let's collabor
 
 ## My hobbies
 Cybersecurity, Music, Dance, Singing
-
-## Education
-
-🔭 General engineering at *Centrale Méditerranée (ongoing | 2021 - 2024)* with 3rd year specialization in AI : Currently doing in parallel an AI Master (AMU) alongside a specialization in AI and Data Science at Centrale & work-study program as a Computer Vision Developer in Paris. 
-
-🌱 Erasmus at *Universitat Politècnica de Catalunya, Barcelona, Feb - Jun 2023* : Completed advanced courses in Innovation and Research in Computer Science, AI, and Data Science.
-
-👑 Preparatory Classes (PCSI/PSI) at *Lycée Saint-Louis, Paris, 2019 - 2021*  
-
-🎓 Baccalauréat S (With High Honors) at *Lycée Louis le Grand, Paris, 2016 - 2019* 
 
 ## Projects
 - Various projects in NLP, multimodality and more done during my AI master, checkout some of them on my Github ✨
