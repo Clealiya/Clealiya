@@ -27,6 +27,8 @@ Aspiring AI and Data engineer with a passion for leveraging technology to solve 
 
 Feel free to explore my projects and connect with me on LinkedIn! Let's collaborate and innovate together! 🌟🤝
 
+**If you'd like to support my work, check out my [BuyMeACoffee](https://buymeacoffee.com/clealiya) page. Your support means the world to me!**
+
 ## My hobbies
 Cybersecurity, Music, Dance, Singing
 
