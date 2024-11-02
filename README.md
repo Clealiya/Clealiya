@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 
 # Welcome to Cléa Han's GitHub Page! 👋
 
-**AI and Data enthousiast | Engineering Student & Computer Vision Developer in Paris | Centrale Méditerranée & AMU & UPC**
+**AI and Data | Centrale Méditerranée & AMU & UPC**
 
-📫 How to reach me: clea.han@centrale-med.fr in those languages : French, English, Chinese or Spanish (still learning).
+📫 How to reach me: clea.han@centrale-med.fr in those languages : French, English or Chinese.
 
 💬 My LinkedIn: https://www.linkedin.com/in/clea-han/ 
 
 ## About Me
 
-Aspiring AI and Data engineer with a passion for leveraging technology to solve real-world challenges. Currently pursuing a Master's degree in General Engineering with a specialization in Artificial Intelligence and Data Science at Centrale Méditerranée. Eager to apply my expertise in computer vision, machine learning, and data analysis to innovate and drive positive change.
+AI and Data engineer with a passion for leveraging technology to solve real-world challenges. Graduated with a double Master's degree in AI and Data Science, I am eager to apply my expertise for innovation and drive positive change.
 
 Feel free to explore my projects and connect with me on LinkedIn! Let's collaborate and innovate together! 🌟🤝
-
-**If you'd like to support my work, check out my [BuyMeACoffee](https://buymeacoffee.com/clealiya) page.**
-
-## My hobbies
-Cybersecurity, Music, Dance, Singing
 
 ## Projects
 - Various projects in NLP, multimodality and more done during my AI master, checkout some of them on my Github ✨
